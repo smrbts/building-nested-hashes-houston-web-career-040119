@@ -9,11 +9,11 @@ def second_challenge
       {
         
       },
-      heroine:
+      hero:
       {
         
       },
-      heroine_friends:
+      hero_friends:
       {
         
       }
@@ -27,11 +27,11 @@ def second_challenge
       {
         
       },
-      hero:
+      heroine:
       {
         
       },
-      hero_friends:
+      heroine_friends:
       {
         
       }
